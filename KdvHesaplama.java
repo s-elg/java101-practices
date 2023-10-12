@@ -1,4 +1,4 @@
-package pratikler;
+package practices;
 
 import java.util.Scanner;
 public class KdvHesaplama {
